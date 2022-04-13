@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Leiden University Medical Center (LUMC)",
+    "description": "A few words about their participation in the project ",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "https://pbs.twimg.com/profile_images/1239865042486558726/MSwXg_tU_400x400.jpg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Municipality of The Hague - Den Haag",
+    "description": "A few words about their participation in the project",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "https://scontent-ams4-1.xx.fbcdn.net/v/t1.18169-9/10363711_892820394077520_4429002692720924688_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GwbUV453tGoAX8W3-uz&tn=nZVLYnbmQryeXDHM&_nc_ht=scontent-ams4-1.xx&oh=00_AT-C1ADsi8GzcQ_2DTiFPFdb17-4E4xN85DC_76srIZ-Bw&oe=627D9625",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Centraal Bureau voor de Statistiek",
+    "description": "A few words about their participation in the project",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "https://www.cbs.nl/content/images/cbs-brand.svg",
       "width": 80,
       "height": 80
     }

@@ -64,7 +64,7 @@ models:
   services:
     type: page
     label: Services
-    file: services.md
+    file: publications.md
     singleInstance: true
     fields:
       - type: string
