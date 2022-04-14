@@ -20,6 +20,6 @@ between April 2020 and 2023.
 
 ## HERoS at TU Delft TPM Resilience Lab
 
-At the TPM Resilience lab, we are looking the Urban health emergency system through the lens of epidemiological and
+At the TPM Resilience lab, we are looking at the urban health emergency system through the lens of epidemiological and
 behavioural modelling. We are building an agent-based model using open data and open source software to devise
 actionable policy inputs and strategies to improve crisis response.
