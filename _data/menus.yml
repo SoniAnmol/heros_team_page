@@ -1,21 +1,24 @@
 main:
-  - name: "Publications"
-    url: "/publications/"
-    weight: 2
-  - name: "Team"
+  - name: "Main"
+    url: "/"
+    weight: 1
+  - name: "Who"
     url: "/team/"
+    weight: 2
+  - name: "So what"
+    url: "/publications/"
     weight: 3
-  - name: "About"
+  - name: "How"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Get in touch"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Main"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Get in touch"
     url: "/contact/"
     weight: 2

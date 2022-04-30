@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: So what
 layout: publications
 description: Publications
 intro_image: "images/illustrations/reading.svg"

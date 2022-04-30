@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'HERoS'
+title: 'HERoS Project'
 
 logo:
   mobile: "images/logo/logo.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"
-  desktop_height: "38px"
-  desktop_width: "120px"
+  desktop_height: "50px"
+  desktop_width: "150px"
 
 collections:
   services:

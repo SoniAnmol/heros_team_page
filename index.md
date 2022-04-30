@@ -1,14 +1,15 @@
 ---
-title: HERoS
+title: HERoS Project
 layout: home
 description: This is a webpage to showcase the contribution of TU Delft TPM Resilience lab and fellow researchers in HERoS a Horizon 2020 project by EU.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# HERoS
+# HERoS Project
+> A Horizon 2020 project by EU
 ## Health Emergency Response in Interconnected Systems
 
 HERoS is a Horizon 2020 project funded under the ‘SC1-PHE-CORONAVIRUS-2020 – Advancing knowledge for the clinical and
