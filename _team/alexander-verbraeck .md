@@ -1,12 +1,13 @@
 ---
 title: "Alexander Verbraeck"
 date: 2018-11-19T10:47:58+10:00
-draft: false
+draft: true
 image: "images/team/AlexanderVerbraeck.jpeg"
 jobtitle: "Full Professor, TU Delft"
-linkedinurl: "https://www.linkedin.com/example2"
+linkedinurl: "https://www.linkedin.com/in/averbraeck/"
 promoted: true
 weight: 2
+layout: team
 ---
 
 Alexander Verbraeck is a full professor in Systems and Simulation in the Policy Analysis Group of the Faculty of

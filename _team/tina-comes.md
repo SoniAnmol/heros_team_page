@@ -3,8 +3,8 @@ title: "Tina Comes"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/tinacomes.png"
-jobtitle: "Professor, TU Delft"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "Full Professor, TU Delft"
+linkedinurl: "https://www.linkedin.com/in/tina-comes-a084ab27/"
 promoted: true
 weight: 1
 layout: team
@@ -28,7 +28,7 @@ city level with the regional and global spread of the pandemic.
 Complexity and uncertainty are hard to communicate. Here, we need to further investigate tools and methods - and develop
 partnerships with policy-makers.
 
-## Some project memories
+## Memories created during the project
 
 We were writing the HERoS project proposal - a full H2020 grant with 100+ pages- in less than 2 weeks, which was an
 amazing experience with the whole team dedicated to it night and day. And even though we never got a chance to meet face

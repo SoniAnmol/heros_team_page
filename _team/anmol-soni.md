@@ -1,14 +1,15 @@
 ---
 title: "Anmol Soni"
 date: 2018-12-20T13:44:23+10:00
-draft: false
-image: "/images/team/anmol.jpeg"
-jobtitle: "Master's student Engineering and Policy Analysis"
-linkedinurl: "https://www.linkedin.com/"
-weight: 3
+draft: true
+image: "https://drive.google.com/uc?id=1qcDqgLYxt3kp68XVJf73rZiDJPUGFm86"
+jobtitle: "Master student, TU Delft"
+linkedinurl: "https://www.linkedin.com/in/a-soni/"
+promoted: true
+weight: 7
 ---
 
-## About me
+
 
 I am an international student from India with a background in policy advocacy and regulatory governance in the energy
 sector. My research interests lie in tackling complex societal challenges through data-driven and evidence-based
@@ -30,7 +31,7 @@ cleaning, exploratory analysis, data preparation and visualization. Apart from t
 experience was working with this amazing team of researchers and scholars at TPM Resilience Lab that supported and
 encouraged me throughout this journey.
 
-## Some project memories
+## Memories created during the project
 
 I learned a very critical life skill from Mikhail during preparing a poster for IC2S2, the skill of producing
 high-quality memes. We spent over 30 minutes finding the office episode and extracting the meme which was later featured

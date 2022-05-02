@@ -2,9 +2,10 @@
 title: "Mikhail Sirenko"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+image: "https://profile-images.xing.com/images/012f3149d409a4aaa9b91e8a7ebec971-1/mikhail-sirenko.1024x1024.jpg"
 jobtitle: "Position"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/mikhailsirenko/"
+promoted: true
 weight: 3
 ---
 
