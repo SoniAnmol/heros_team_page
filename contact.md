@@ -49,18 +49,8 @@ description: Contact
                     <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
                     <a href="https://twitter.com/marikeng?lang=en&#41"> @MarikenG</a> </p>
                     <p> TU Delft TPM Resilience Lab, Gebouw 31, Jaffalaan 5, 2628 BX Delft</p>
+                    <p> Tel: + 31 15 27 89801 </p>
             </div>
         </div>  
     </div>
 </div>
-
-[//]: # ()
-
-[//]: # (## **Address**)
-
-[//]: # ()
-[//]: # (> TU Delft TPM Resilience Lab \)
-
-[//]: # (> Gebouw 31, Jaffalaan 5, 2628 BX Delft \)
-
-[//]: # (Tel: + 31 15 27 89801)
