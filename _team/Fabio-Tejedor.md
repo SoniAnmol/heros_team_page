@@ -5,7 +5,7 @@ draft: false
 image: "https://drive.google.com/uc?id=1Ppn9k2nH53YFCnKqWRBhxHHWrAQomX39"
 jobtitle: "PhD Urban Economics, Wageningen University and Research"
 linkedinurl: "https://www.linkedin.com/in/fabio-tejedor-26b9a135/"
-weight: 4
+weight: 6
 promoted: true
 layout: team
 ---

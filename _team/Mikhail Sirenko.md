@@ -2,7 +2,7 @@
 title: "Mikhail Sirenko"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "https://profile-images.xing.com/images/012f3149d409a4aaa9b91e8a7ebec971-1/mikhail-sirenko.1024x1024.jpg"
+image: "https://ca.slack-edge.com/T015J8CL3GX-U0160V7Q6CS-9940257e016a-512"
 jobtitle: "Position"
 linkedinurl: "https://www.linkedin.com/in/mikhailsirenko/"
 promoted: true

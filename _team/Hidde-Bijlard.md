@@ -2,7 +2,7 @@
 title: "Hidde Bijlard"
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: "https://drive.google.com/uc?id=1rgmWbL7JIyONqITy1-Iq735WiWkHm-Al"
+image: "https://ca.slack-edge.com/T015J8CL3GX-U032AGU2EMQ-f92df6dc1bc7-72"
 jobtitle: "Master student, TU Delft/ CBS Netherlands"
 promoted: true
 weight: 8
