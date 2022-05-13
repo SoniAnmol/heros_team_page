@@ -26,7 +26,7 @@ bodyClass: "page-team"
             <div class="team team-summary team-summary-large">
                 {% if team.image %}
                 <div class="team-image" align="center">
-                    <img width="90" height="90" alt="{{ team.title }}" style="border-radius: 50%" src="{{ team.image | relative_url }}" />
+                    <img alt="{{ team.title }}" style="border-radius: 50%; height: 75px" src="{{ team.image | relative_url }}" />
                 </div>
                 {% endif %}
                 <div class="team-meta" align="center">

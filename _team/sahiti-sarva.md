@@ -2,7 +2,7 @@
 title: "Sahiti Sarva"
 date: 2018-12-20T13:45:06+10:00
 draft: false
-image: "https://drive.google.com/uc?id=1K4jPcQk5enbXapdfVar7zetiQna42WTA"
+image: "https://media-exp1.licdn.com/dms/image/C4E03AQHtv5veBGN4BQ/profile-displayphoto-shrink_400_400/0/1516465153765?e=1657756800&v=beta&t=VPtR8lVDhUKwHaOszdaIngn_buXPtWlbwyNoYqeo93s"
 jobtitle: "Research Analyst, UNDP"
 promoted: true
 weight: Math.floor(Math.random() * 10) + 1;
@@ -35,3 +35,5 @@ The penultimate day (or what felt like) of submitting the HERoS report, we final
 Decision Making Under Deep Uncertainty which the entire team was very excited to do. We were all in the comfort/stink of
 our own homes working on this model continuously for about a week by then. The look on our faces when we finally had
 data to read was quite unparalleled to any other feeling we had on the project. 
+
+<img src="https://drive.google.com/uc?id=1obOeq5vjYCHYV4QkLp-EkFsbfmzn7HlF" />
