@@ -28,7 +28,7 @@ description: Contact
                 <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
                 <a href="mailto:m.sirenko@tudelft.nl"> M(dot)Sirenko(at)tudelft(dot)nl</a> &nbsp;
                 <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
-                <a href="https://twitter.com/mikhail_sirenko"> @mikhailsirenko</a> </p>
+                <a href="https://twitter.com/mikhailsirenko"> @mikhailsirenko</a> </p>
             </div>
         </div>
     </div>
