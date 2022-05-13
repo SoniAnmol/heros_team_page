@@ -4,37 +4,63 @@ layout: contact
 description: Contact
 ---
 
-## **For information or getting involved in the HERoS project**
+<div class="container pt-12 pb-12" style="align-content: center">
+    <h1 style="text-align: center;">For information on getting involved in the HERoS project</h1>
+    <div class="row" style="align-content: center">
+        <div class="col-md-6" align="center">
+            <div class="team-image">
+                <img src="https://pbs.twimg.com/profile_images/1006521089701437441/_Olu8nQe_400x400.jpg" style="border-radius: 50%; width: 150px" alt="TinaComes" />
+            </div>
+            <div class="tab-content">
+                <h2>Tina Comes</h2>
+                <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                <a href="mailto:t.comes@tudelft.nl"> T(dot)Comes(at)tudelft(dot)nl</a> &nbsp;
+                <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                <a href="https://twitter.com/tinacomes"> @tinacomes</a> </p>
+            </div>
+        </div>
+        <div class="col-md-6" align="center">
+            <div class="team-image">
+                <img src="https://cusp.tbm.tudelft.nl/author/mikhail-sirenko/avatar_hu50a0ecf5b006bec7d45e91374ec43c4d_3283495_270x270_fill_q90_lanczos_center.jpg" style="border-radius: 50%; width: 150px" alt="TinaComes" />
+            </div>
+            <div class="tab-content">
+                <h2>Mikhail Sirenko </h2>
+                <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                <a href="mailto:m.sirenko@tudelft.nl"> M(dot)Sirenko(at)tudelft(dot)nl</a> &nbsp;
+                <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                <a href="https://twitter.com/mikhail_sirenko"> @mikhailsirenko</a> </p>
+            </div>
+        </div>
+    </div>
+</div>
 
-<img src="https://pbs.twimg.com/profile_images/1006521089701437441/_Olu8nQe_400x400.jpg" alt="Mikhail" style="width:200px;height:200px; float: left; margin-right: 5%">
+<div class="container pt-12 pb-12" align="center">
+    <h1 style="text-align: center;">For information about the TPM Resilience Lab</h1>
+    <div class="row" align="center">
+        <div class="col-md-12" align="center">
+            <div class="team-image" align="center">
+                <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFm6rME6wbPHg/profile-displayphoto-shrink_400_400/0/1516334806077?e=1657152000&v=beta&t=ZRYZ4dSwTlRoGFkakJrj3onXUuh1Na1xixFWGHUUy84" style="border-radius: 50%; width: 150px" alt="TinaComes" />
+            </div> 
+            <br>
+            <div class="tab-content" align="center">
+                    <h2>Mariken Gaanderse</h2>
+                    <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                    <a href="mailto:M.Q.Gaanderse-1@tudelft.nl"> M(dot)Q(dot)Gaanderse-1(at)tudelft(dot)nl</a> &nbsp;
+                    <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                    <a href="https://twitter.com/marikeng?lang=en&#41"> @MarikenG</a> </p>
+                    <p> TU Delft TPM Resilience Lab, Gebouw 31, Jaffalaan 5, 2628 BX Delft</p>
+            </div>
+        </div>  
+    </div>
+</div>
 
-## Tina Comes
-[Contact: T.comes at tudelft.nl](mailto:T.comes@tudelft.nl) \
-[@tinacomes](https://twitter.com/tinacomes)
+[//]: # ()
 
-<br><br><br><br>
+[//]: # (## **Address**)
 
-<img src="https://cusp.tbm.tudelft.nl/author/mikhail-sirenko/avatar_hu50a0ecf5b006bec7d45e91374ec43c4d_3283495_270x270_fill_q90_lanczos_center.jpg" alt="TinaComes" style="width:200px;height:200px; float: left; margin-right: 5%">
+[//]: # ()
+[//]: # (> TU Delft TPM Resilience Lab \)
 
-## Mikhail Sirenko
-[Contact: m.sirenko at tudelft.nl](mailto:m.sirenko@tudelft.nl)\
-[@mikhailsirenko](https://twitter.com/mikhailsirenko) 
+[//]: # (> Gebouw 31, Jaffalaan 5, 2628 BX Delft \)
 
-
-<br><br><br><br>
-
-## **For information about the TPM Resilience Lab**
-
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFm6rME6wbPHg/profile-displayphoto-shrink_400_400/0/1516334806077?e=1657152000&v=beta&t=ZRYZ4dSwTlRoGFkakJrj3onXUuh1Na1xixFWGHUUy84" alt="Marianke" style="width:200px;height:200px; float: left; margin-right: 5%">
-
-## Mariken Gaanderse
-[Contact: M.Q.Gaanderse-1 at tudelft.nl](mailto:M.Q.Gaanderse-1@tudelft.nl) \
-[@MarikenG](https://twitter.com/marikeng?lang=en)
-
-<br><br><br><br>
-
-## **Address**
-
-> TU Delft TPM Resilience Lab \
-> Gebouw 31, Jaffalaan 5, 2628 BX Delft \
-Tel: + 31 15 27 89801
+[//]: # (Tel: + 31 15 27 89801)
