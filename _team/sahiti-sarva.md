@@ -5,7 +5,7 @@ draft: false
 image: "https://media-exp1.licdn.com/dms/image/C4E03AQHtv5veBGN4BQ/profile-displayphoto-shrink_400_400/0/1516465153765?e=1657756800&v=beta&t=VPtR8lVDhUKwHaOszdaIngn_buXPtWlbwyNoYqeo93s"
 jobtitle: "Research Analyst, UNDP"
 promoted: true
-weight: Math.floor(Math.random() * 10) + 1;
+weight: 5
 ---
 
 I'm Sahiti. I'm a graduate of the MSc Engineering and Policy Analysis Program, TU Delft from the batch of 2021. I
