@@ -13,9 +13,9 @@ description: Contact
             </div>
             <div class="tab-content">
                 <h2>Tina Comes</h2>
-                <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                <p> <img src="https://icon-library.com/images/png-email-icon/png-email-icon-14.jpg" style="width: 25px">
                 <a href="mailto:t.comes@tudelft.nl"> T(dot)Comes(at)tudelft(dot)nl</a> &nbsp;
-                <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                <img src="https://c-billt.com/wp-content/uploads/2019/08/twitter-logo-png-twitter-logo-vector-png-clipart-library-518.png" style="width: 25px"> 
                 <a href="https://twitter.com/tinacomes"> @tinacomes</a> </p>
             </div>
         </div>
@@ -25,9 +25,9 @@ description: Contact
             </div>
             <div class="tab-content">
                 <h2>Mikhail Sirenko </h2>
-                <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                <p> <img src="https://icon-library.com/images/png-email-icon/png-email-icon-14.jpg" style="width: 25px">
                 <a href="mailto:m.sirenko@tudelft.nl"> M(dot)Sirenko(at)tudelft(dot)nl</a> &nbsp;
-                <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                <img src="https://c-billt.com/wp-content/uploads/2019/08/twitter-logo-png-twitter-logo-vector-png-clipart-library-518.png" style="width: 25px"> 
                 <a href="https://twitter.com/mikhailsirenko"> @mikhailsirenko</a> </p>
             </div>
         </div>
@@ -44,9 +44,9 @@ description: Contact
             <br>
             <div class="tab-content" align="center">
                     <h2>Mariken Gaanderse</h2>
-                    <p> <img src="http://cdn.onlinewebfonts.com/svg/img_262951.png" style="width: 25px">
+                    <p> <img src="https://icon-library.com/images/png-email-icon/png-email-icon-14.jpg" style="width: 25px">
                     <a href="mailto:M.Q.Gaanderse-1@tudelft.nl"> M(dot)Q(dot)Gaanderse-1(at)tudelft(dot)nl</a> &nbsp;
-                    <img src="https://www.clipartmax.com/png/full/356-3566228_image-royalty-free-library-twitter-icon-png-for-free-vector-twitter-logo.png" style="width: 25px"> 
+                    <img src="https://c-billt.com/wp-content/uploads/2019/08/twitter-logo-png-twitter-logo-vector-png-clipart-library-518.png" style="width: 25px"> 
                     <a href="https://twitter.com/marikeng?lang=en&#41"> @MarikenG</a> </p>
                     <p> TU Delft TPM Resilience Lab, Gebouw 31, Jaffalaan 5, 2628 BX Delft</p>
                     <p> Tel: + 31 15 27 89801 </p>
