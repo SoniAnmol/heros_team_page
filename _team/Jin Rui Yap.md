@@ -4,9 +4,10 @@ date: 2018-12-20T13:44:55+10:00
 draft: false
 image: "https://drive.google.com/uc?id=18Z_2EO0HZyiWlrNwsvdgcqyerS4ZDRug"
 jobtitle: "PhD candidate, TU Delft"
-linkedinurl: "https://www.linkedin.com/in/jryap8/" 
+linkedinurl: "https://www.linkedin.com/in/jryap8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABG6nVkBtfgX9RePsOh2PNQS17_glZlTdKU&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BV1V%2FwcBKR%2F%2BHQecVi3EAJA%3D%3D"
 promoted: true
-weight: 4
+weight: 6
+layout: team
 ---
 
 Coming from Malaysia, my mission is mainly driven by the search for good food. Beyond that, in mostly equal measure and

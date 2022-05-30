@@ -11,7 +11,7 @@ show_call_box: false
 > A Horizon 2020 project by EU
 ## Health Emergency Response in Interconnected Systems
 
-<img src="https://github.com/paulvangentcom/python_corona_simulation/raw/master/images/covidsim.gif" width="500" style="float:right; margin: 0 0 1em 1em;" title="image" />
+<img src="https://github.com/paulvangentcom/python_corona_simulation/raw/master/images/covidsim.gif" width="550" style="float:right; margin: 0 0 1em 1em;" title="image" />
 
 
 
@@ -28,12 +28,6 @@ At the TPM Resilience lab, we are looking at the urban health emergency system t
 behavioural modelling. We are building an agent-based model using open data and open source software to devise
 actionable policy inputs and strategies to support decision makers for improving crisis response during pandemic.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <small>
 GIF source:
 <a  href="https://github.com/paulvangentcom/python_corona_simulation">Python COVID-19 ('Corona Virus') Simulation </a>
