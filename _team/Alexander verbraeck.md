@@ -1,7 +1,7 @@
 ---
 title: "Alexander Verbraeck"
-date: 2018-11-19T10:47:58+10:00
-draft: true
+date: 2018-12-18T13:44:55+10:00
+draft: false
 image: "images/team/AlexanderVerbraeck.jpeg"
 jobtitle: "Full Professor, TU Delft"
 linkedinurl: "https://www.linkedin.com/in/averbraeck/"
